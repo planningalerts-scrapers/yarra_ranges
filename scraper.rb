@@ -10,21 +10,21 @@ agent = Mechanize.new do |a|
   a.verify_mode = OpenSSL::SSL::VERIFY_NONE
 end
 
-p "Setting up session by visiting splash page..."
+puts "Setting up session by visiting splash page..."
 splash_page = agent.get( splash_url )
-p "Splash page: '#{splash_page.title.strip}'"
+puts "Splash page: '#{splash_page.title.strip}'"
 
-p "Loading search form so that we can submit it..."
+puts "Loading search form so that we can submit it..."
 first_page = agent.get( "#{main_url}/EnquiryLists.aspx" )
-p "Search page: '#{first_page.title.strip}'"
+puts "Search page: '#{first_page.title.strip}'"
 
 search_form = first_page.forms.first
 
-p "Submitting search form."
-p "The form will result in all applications since the beginning of time, however, they should be sorted in reverse chronological order. This means we can scrape indefinetaly until we hit one we've seen before."
+puts "Submitting search form."
+puts "The form will result in all applications since the beginning of time, however, they should be sorted in reverse chronological order. This means we can scrape indefinetaly until we hit one we've seen before."
 
 summary_page = agent.submit( search_form, search_form.buttons.first )
-p "Summary page: '#{summary_page.title.strip}'"
+puts "Summary page: '#{summary_page.title.strip}'"
 
 data     = []
 continue = true
@@ -41,7 +41,7 @@ idx_date_received     = nil
 idx_address           = nil
 
 while continue and summary_page
-  p "Processing: Page #{page_num}..."
+  puts "Processing: Page #{page_num}..."
   
   table = summary_page.root.at_css('table.ContentPanel')
 
@@ -83,9 +83,9 @@ while continue and summary_page
   end
 
   if to_ignore.length > 0 
-    p "Found #{to_ignore.length} items we have already seen:"
+    puts "Found #{to_ignore.length} items we have already seen:"
     pp to_ignore
-    p "Not continuing any further."
+    puts "Not continuing any further."
     continue = false
   end
 
@@ -95,4 +95,4 @@ while continue and summary_page
   end
 end
 
-p "Finished."
+puts "Finished."
