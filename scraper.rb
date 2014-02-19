@@ -3,7 +3,7 @@ require 'mechanize'
 require 'date'
 
 puts "Fixing data..."
-ScraperWiki.sqliteexecute "UPDATE 'data' SET `comment_url`='mail@yarraranges.vic.gov.au'"
+ScraperWiki.sqliteexecute "UPDATE 'data' SET `comment_url`='mailto:mail@yarraranges.vic.gov.au'"
 puts "Data fixed, exiting"
 exit
 
