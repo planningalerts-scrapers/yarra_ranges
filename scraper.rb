@@ -31,7 +31,7 @@ continue = true
 page_num = 1
 
 now             = Date.today.to_s
-comment_address = 'mail@yarraranges.vic.gov.au'
+comment_address = 'mailto:mail@yarraranges.vic.gov.au'
 
 # Only figure out the header stuff the first time...
 headers               = nil
