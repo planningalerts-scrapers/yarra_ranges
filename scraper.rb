@@ -2,6 +2,11 @@ require 'scraperwiki'
 require 'mechanize'
 require 'date'
 
+puts "Fixing data..."
+ScraperWiki.sqliteexecute "UPDATE 'data' SET `comment_url`='mail@yarraranges.vic.gov.au'"
+puts "Data fixed, exiting"
+exit
+
 base_url   = "https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web"
 main_url   = "#{base_url}/GeneralEnquiry"
 splash_url = "#{base_url}/default.aspx"
