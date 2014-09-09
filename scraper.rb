@@ -47,10 +47,12 @@ while continue and summary_page
 
   unless headers
     headers = table.css('th').collect { |th| th.inner_text.strip } 
-    idx_council_reference = headers.index( 'Number'      )
-    idx_description       = headers.index( 'Description' )
-    idx_date_received     = headers.index( 'Lodged'      )
-    idx_address           = headers.index( 'Location'    )
+    # puts headers.inspect
+    # ["Our Reference", "Type of Application", "Date Lodged", "Location", "Details of application or permit", "Decision (where applicable)"]
+    idx_council_reference = headers.index("Our Reference")
+    idx_description       = headers.index('Type of Application')
+    idx_date_received     = headers.index('Date Lodged')
+    idx_address           = headers.index('Location')
   end
 
   data = table.css('.ContentPanel, .AlternateContentPanel').collect do |tr| 
