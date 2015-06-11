@@ -42,11 +42,11 @@ idx_address           = nil
 
 while continue and summary_page
   puts "Processing: Page #{page_num}..."
-  
+
   table = summary_page.root.at_css('table.ContentPanel')
 
   unless headers
-    headers = table.css('th').collect { |th| th.inner_text.strip } 
+    headers = table.css('th').collect { |th| th.inner_text.strip }
     # puts headers.inspect
     # ["Our Reference", "Type of Application", "Date Lodged", "Location", "Details of application or permit", "Decision (where applicable)"]
     idx_council_reference = headers.index("Our Reference")
@@ -55,7 +55,7 @@ while continue and summary_page
     idx_address           = headers.index('Location')
   end
 
-  data = table.css('.ContentPanel, .AlternateContentPanel').collect do |tr| 
+  data = table.css('.ContentPanel, .AlternateContentPanel').collect do |tr|
     tr.css('td').collect { |td| td.inner_text.strip }
   end
 
@@ -75,7 +75,7 @@ while continue and summary_page
     end
     info['date_scraped']      = now
     info['comment_url']       = comment_address
-    
+
     # p info
 
     if (ScraperWiki.select( "* from data where `council_reference` = '#{info['council_reference']}'" ).empty? rescue true)
@@ -86,7 +86,7 @@ while continue and summary_page
 
   end
 
-  if to_ignore.length > 0 
+  if to_ignore.length > 0
     puts "Found #{to_ignore.length} items we have already seen:"
     pp to_ignore
     puts "Not continuing any further."
