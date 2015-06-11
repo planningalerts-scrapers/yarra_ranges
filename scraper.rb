@@ -70,7 +70,9 @@ while continue and summary_page
     info['address']           = application[ idx_address           ]
     info['description']       = application[ idx_description       ]
     info['info_url']          = splash_url # There is a direct link but you need a session to access it :(
-    info['date_received']     = Date.strptime( application[ idx_date_received ], '%d/%m/%Y' ).to_s
+    if idx_date_received
+      info['date_received']     = Date.strptime( application[ idx_date_received ], '%d/%m/%Y' ).to_s
+    end
     info['date_scraped']      = now
     info['comment_url']       = comment_address
     
