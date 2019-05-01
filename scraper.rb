@@ -27,7 +27,6 @@ summary_page = agent.submit( search_form, search_form.buttons.first )
 puts "Summary page: '#{summary_page.title.strip}'"
 
 data     = []
-continue = true
 page_num = 1
 
 now             = Date.today.to_s
@@ -40,7 +39,7 @@ idx_description       = nil
 idx_date_received     = nil
 idx_address           = nil
 
-while continue and summary_page
+while summary_page
   puts "Processing: Page #{page_num}..."
 
   table = summary_page.root.at_css('table.ContentPanel')
@@ -59,8 +58,6 @@ while continue and summary_page
     tr.css('td').collect { |td| td.inner_text.strip }
   end
 
-  to_ignore = []
-
   applications = data.each do |application|
 
     # p application
@@ -78,25 +75,12 @@ while continue and summary_page
 
     # p info
 
-    if (ScraperWiki.select( "* from data where `council_reference` = '#{info['council_reference']}'" ).empty? rescue true)
-      ScraperWiki.save_sqlite( ['council_reference'], info )
-    else
-      to_ignore = to_ignore + [ info['council_reference'] ]
-    end
+    ScraperWiki.save_sqlite( ['council_reference'], info )
 
   end
 
-  if to_ignore.length > 0
-    puts "Found #{to_ignore.length} items we have already seen:"
-    pp to_ignore
-    puts "Not continuing any further."
-    continue = false
-  end
-
-  if continue
-    page_num = page_num + 1
-    summary_page = agent.get( "#{main_url}/EnquirySummaryView.aspx", { :PageNumber => page_num } )
-  end
+  page_num = page_num + 1
+  summary_page = agent.get( "#{main_url}/EnquirySummaryView.aspx", { :PageNumber => page_num } )
 end
 
 puts "Finished."
