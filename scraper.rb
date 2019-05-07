@@ -44,6 +44,11 @@ while summary_page
 
   table = summary_page.root.at_css('table.ContentPanel')
 
+  if table.nil?
+    puts "For some reason the table is missing :-( Skip this page"
+    next
+  end
+
   unless headers
     headers = table.css('th').collect { |th| th.inner_text.strip }
     # puts headers.inspect
