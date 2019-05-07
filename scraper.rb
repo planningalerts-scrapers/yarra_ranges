@@ -80,6 +80,10 @@ while summary_page
   end
 
   page_num = page_num + 1
+
+  # Fairly arbitrarily only read in the first 20 pages. Goes back roughly 6 months
+  break if page_num > 20
+
   summary_page = agent.get( "#{main_url}/EnquirySummaryView.aspx", { :PageNumber => page_num } )
 end
 
