@@ -30,7 +30,6 @@ data     = []
 page_num = 1
 
 now             = Date.today.to_s
-comment_address = 'mailto:mail@yarraranges.vic.gov.au'
 
 # Only figure out the header stuff the first time...
 headers               = nil
@@ -76,7 +75,6 @@ while summary_page
       info['date_received']     = Date.strptime( application[ idx_date_received ], '%d/%m/%Y' ).to_s
     end
     info['date_scraped']      = now
-    info['comment_url']       = comment_address
 
     # p info
 
