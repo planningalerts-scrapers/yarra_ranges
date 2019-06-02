@@ -17,8 +17,6 @@ summary_page = agent.submit( search_form, search_form.buttons.first )
 data     = []
 page_num = 1
 
-now             = Date.today.to_s
-
 # Only figure out the header stuff the first time...
 headers               = nil
 idx_council_reference = nil
@@ -48,16 +46,18 @@ while summary_page
     tr.css('td').collect { |td| td.inner_text.strip }
   end
 
-  applications = data.each do |application|
-    info = {}
-    info['council_reference'] = application[ idx_council_reference ]
-    info['address']           = application[ idx_address           ]
-    info['description']       = application[ idx_description       ]
-    info['info_url']          = splash_url # There is a direct link but you need a session to access it :(
+  data.each do |application|
+    info = {
+      'council_reference' => application[idx_council_reference],
+      'address' => application[idx_address],
+      'description' => application[idx_description],
+      'info_url' => splash_url,
+      'date_scraped' => Date.today.to_s
+    }
+
     if idx_date_received
-      info['date_received']     = Date.strptime( application[ idx_date_received ], '%d/%m/%Y' ).to_s
+      info['date_received'] = Date.strptime(application[idx_date_received], '%d/%m/%Y').to_s
     end
-    info['date_scraped']      = now
 
     EpathwayScraper.save(info)
   end
