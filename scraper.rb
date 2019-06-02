@@ -24,17 +24,15 @@ while summary_page
   end
 
   EpathwayScraper::Table.extract_table_data_and_urls(table).each do |row|
+    data = EpathwayScraper::Page::Index.extract_index_data(row)
     info = {
-      'council_reference' => row[:content]["Our Reference"],
-      'address' => row[:content]["Location"],
-      'description' => row[:content]["Details of proposal or permit"],
+      'council_reference' => data[:council_reference],
+      'address' => data[:address],
+      'description' => data[:description],
       'info_url' => splash_url,
-      'date_scraped' => Date.today.to_s
+      'date_scraped' => Date.today.to_s,
+      'date_received' => data[:date_received]
     }
-
-    if row[:content]["Date Lodged"]
-      info['date_received'] = Date.strptime(row[:content]["Date Lodged"], '%d/%m/%Y').to_s
-    end
 
     EpathwayScraper.save(info)
   end
