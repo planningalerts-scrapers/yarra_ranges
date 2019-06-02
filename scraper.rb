@@ -27,7 +27,7 @@ while summary_page
     info = {
       'council_reference' => row[:content]["Our Reference"],
       'address' => row[:content]["Location"],
-      'description' => row[:content]["Type of Application"],
+      'description' => row[:content]["Details of proposal or permit"],
       'info_url' => splash_url,
       'date_scraped' => Date.today.to_s
     }
