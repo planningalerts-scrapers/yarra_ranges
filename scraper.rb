@@ -1,30 +1,18 @@
-require 'scraperwiki'
-require 'mechanize'
-require 'date'
+require "epathway_scraper"
 
 base_url   = "https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web"
 main_url   = "#{base_url}/GeneralEnquiry"
 splash_url = "#{base_url}/default.aspx"
 
-agent = Mechanize.new do |a|
-  a.verify_mode = OpenSSL::SSL::VERIFY_NONE
-end
+agent = Mechanize.new
 
-puts "Setting up session by visiting splash page..."
 splash_page = agent.get( splash_url )
-puts "Splash page: '#{splash_page.title.strip}'"
 
-puts "Loading search form so that we can submit it..."
 first_page = agent.get( "#{main_url}/EnquiryLists.aspx" )
-puts "Search page: '#{first_page.title.strip}'"
 
 search_form = first_page.forms.first
 
-puts "Submitting search form."
-puts "The form will result in all applications since the beginning of time, however, they should be sorted in reverse chronological order. This means we can scrape indefinetaly until we hit one we've seen before."
-
 summary_page = agent.submit( search_form, search_form.buttons.first )
-puts "Summary page: '#{summary_page.title.strip}'"
 
 data     = []
 page_num = 1
@@ -39,8 +27,6 @@ idx_date_received     = nil
 idx_address           = nil
 
 while summary_page
-  puts "Processing: Page #{page_num}..."
-
   table = summary_page.root.at_css('table.ContentPanel')
 
   if table.nil?
@@ -63,9 +49,6 @@ while summary_page
   end
 
   applications = data.each do |application|
-
-    # p application
-
     info = {}
     info['council_reference'] = application[ idx_council_reference ]
     info['address']           = application[ idx_address           ]
@@ -76,10 +59,7 @@ while summary_page
     end
     info['date_scraped']      = now
 
-    # p info
-
-    ScraperWiki.save_sqlite( ['council_reference'], info )
-
+    EpathwayScraper.save(info)
   end
 
   page_num = page_num + 1
@@ -89,5 +69,3 @@ while summary_page
 
   summary_page = agent.get( "#{main_url}/EnquirySummaryView.aspx", { :PageNumber => page_num } )
 end
-
-puts "Finished."
