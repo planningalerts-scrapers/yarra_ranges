@@ -8,7 +8,7 @@ scraper = EpathwayScraper::Scraper.new(
   "https://epathway.yarraranges.vic.gov.au/ePathway/Production"
 )
 
-splash_page = scraper.agent.get( splash_url )
+splash_page = scraper.agent.get( scraper.base_url )
 
 first_page = scraper.agent.get( "#{main_url}/EnquiryLists.aspx" )
 
