@@ -1,34 +1,4 @@
 ---
-- council_reference: VS-2018/129
-  address: 436 Glenfern Road, Upwey VIC 3158
-  description: Buildings and works to construct a front fence
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-17'
-- council_reference: VS-2018/130
-  address: 74 Lusatia Park Road, Woori Yallock VIC 3139
-  description: Buildings and works to construct an outbuilding
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-21'
-- council_reference: VS-2018/131
-  address: 51 Edmund Road, Silvan VIC 3795
-  description: Buildings and works to construct an outbuilding
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-23'
-- council_reference: VS-2018/132
-  address: 119A Old Gippsland Road, Lilydale VIC 3140
-  description: Buildings and works to construct an outbuilding
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-27'
-- council_reference: VS-2018/133
-  address: 15 Anderson Street, Lilydale VIC 3140 (Shire Offices)
-  description: TEST VICSMART
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-22'
 - council_reference: VS-2018/134
   address: 15 Anderson Street, Lilydale VIC 3140 (Shire Offices)
   description: Test VicSmart Application
@@ -260,7 +230,7 @@
   date_received: '2019-01-08'
 - council_reference: VS-2019/30
   address: 9 Norton Road, Kallista VIC 3791
-  description: Buildings and works to construct an outbuilding (garage)
+  description: Buildings and works to construct an outbuilding (carport)
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-12'
@@ -434,16 +404,88 @@
   date_received: '2019-05-09'
 - council_reference: VS-2019/59
   address: 31 McNamaras Road, Millgrove VIC 3799
-  description: Buildings and works to extend an existing carport
+  description: Buildings and works to extend an existing dwelling
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-09'
+- council_reference: VS-2019/60
+  address: 396 Swansea Road, Lilydale VIC 3140
+  description: Buildings and works to construct a front fence
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-12'
+- council_reference: VS-2019/61
+  address: 163 Badger Creek Road, Badger Creek VIC 3777
+  description: Building and works to extend an existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: VS-2019/62
+  address: 29A Coulson Road, Monbulk VIC 3793
+  description: Buildings and works to extend existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-16'
+- council_reference: VS-2019/63
+  address: 135 Ducks Lane, Seville VIC 3139
+  description: Building and works to construct an outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: VS-2019/64
+  address: 19 Ternes Road, Upwey VIC 3158
+  description: Building and works to extend an existing dwelling.
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: VS-2019/65
+  address: 19 Summerlea Road, Mount Dandenong VIC 3767
+  description: Buildings and works to construct an outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: VS-2019/66
+  address: 7 Halcyon Avenue, The Patch VIC 3792
+  description: Buildings and works to extend existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: VS-2019/67
+  address: 5 Skipton Road, Olinda VIC 3788
+  description: Building and works to construct an outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: VS-2019/68
+  address: 14 Farnham Road, Healesville VIC 3777
+  description: Building and works to construct an outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: VS-2019/69
+  address: 12 Oakland Avenue, Upwey VIC 3158
+  description: Buildings and works to construct a carport
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
 - council_reference: VS-2019/7
   address: 160 Skye Road, Gruyere VIC 3770
   description: Buildings and works to extend an existing building
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
+- council_reference: VS-2019/70
+  address: 40 Eileen Grove, Woori Yallock VIC 3139
+  description: Buildings and works to construct an outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: VS-2019/71
+  address: 30 Selby Road, Woori Yallock VIC 3139
+  description: Two lot subdivision
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
 - council_reference: VS-2019/8
   address: 70 Bailey Road, Mount Evelyn VIC 3796
   description: Buildings and works to extend an existing dwelling
@@ -468,13 +510,6 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-11'
-- council_reference: YR-2001/2161/B
-  address: 1/313 Healesville-Yarra Glen Road, Healesville VIC 3777 (Museum)
-  description: Museum of Art, including ancillary cafe, wine tasting and cellar door
-    sales, parking areas, entry sign and vegetation removal.
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-21'
 - council_reference: YR-2001/705/D
   address: 458 Maroondah Highway, Healesville VIC 3777
   description: Use & Development of land for a Winery (including the sale & consumption
@@ -501,6 +536,13 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-01'
+- council_reference: YR-2004/2065/E
+  address: 5 Lifestyle Lane, Chirnside Park VIC 3116 (Rear of New Building)
+  description: Use of land for restaurant(s), convenience restaurant(s), on premises
+    liquor license, construction of ornamental lake and waiver of carparking
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
 - council_reference: YR-2005/310/B
   address: 14 St Huberts Road, Coldstream VIC 3770
   description: Use and development of land for barrel store, licensed restaurant/function
@@ -515,6 +557,12 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-15'
+- council_reference: YR-2007/179/A
+  address: 344 Don Road, Badger Creek VIC 3777
+  description: Use and development of dependent person's unit
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
 - council_reference: YR-2007/823/D
   address: 30 Selby Road, Woori Yallock VIC 3139
   description: Use and development of land for industry, dispensation of carparking
@@ -559,12 +607,6 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-08'
-- council_reference: YR-2010/123/B
-  address: 15 Taylor Road, Yellingbo VIC 3139
-  description: Use and construction of dwelling, associated barn and outbuilding
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-22'
 - council_reference: YR-2010/638/B
   address: 1309 Melba Highway, Yarra Glen VIC 3775 (Winery & Conference Centre)
   description: Licensed Premises (General Liquor License)
@@ -624,14 +666,6 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-20'
-- council_reference: YR-2014/961/G
-  address: 361-365 Mt Dandenong Tourist Road, Sassafras VIC 3787
-  description: The construction of building and works for a food and drink premises
-    ancillary to the existing plant nursery in the Green Wedge A Zone in accordance
-    with the endorsed plans
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-15'
 - council_reference: YR-2015/1133/A
   address: 25 Hopkins Road, Narre Warren East VIC 3804
   description: Use and Development of a dwelling, farm building, home office and associated
@@ -654,6 +688,13 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-28'
+- council_reference: YR-2015/178/A
+  address: 45 Halls Road, Launching Place VIC 3139
+  description: Use of the land for a home occupation and buildings and works to construct
+    an outbuilding (stable).
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
 - council_reference: YR-2015/357/A
   address: 13 Dunrossil Drive, Kilsyth VIC 3137
   description: Buildings and works to construct an additional dwelling to the rear
@@ -691,6 +732,13 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-10'
+- council_reference: YR-2015/718/A
+  address: 10 Cherylnne Crescent, Kilsyth VIC 3137
+  description: Buildings and works to construct an additional dwelling on each vacant
+    lot, 4 lot subdivision and associated tree removal
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
 - council_reference: YR-2015/982/B
   address: 2 Knolls Lane, Silvan VIC 3795
   description: Buildings and works to construct a replacement dwelling
@@ -739,6 +787,13 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2018-12-07'
+- council_reference: YR-2016/1398/A
+  address: 3 Lilydale Road, Healesville VIC 3777
+  description: The use of land for industry (wine production) with associated manufacturing
+    sales (cellar door) and sale and consumption of liquor
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
 - council_reference: YR-2016/182
   address: 110 Sebire Avenue, Wandin North VIC 3139
   description: Use and construction of a dwelling, outbuilding (farm shed) and installation
@@ -753,6 +808,13 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-10'
+- council_reference: YR-2016/203/A
+  address: 474 Queens Road, Wandin East VIC 3139
+  description: Use of land for primary produce sales, and sale and consumption of
+    liquor (beer and wine producers licence)
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
 - council_reference: YR-2016/455/A
   address: 35 Connors Lane, Seville VIC 3139
   description: Use and Development of a Dependent Persons Unit and outbuilding
@@ -828,13 +890,6 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-27'
-- council_reference: YR-2017/479/A
-  address: 20 Edward Road, Chirnside Park VIC 3116
-  description: Building and works to construct a second dwelling to the rear of the
-    existing, and a carport for the existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-19'
 - council_reference: YR-2017/531/A
   address: 9 Essex Street, Warburton VIC 3799
   description: Use and development of an art and craft centre, associated earthworks
@@ -850,12 +905,6 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-14'
-- council_reference: YR-2017/668/A
-  address: 43 Hethersett Road, Sassafras VIC 3787
-  description: Buildings and works to construct an outbuilding
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
 - council_reference: YR-2017/686/A
   address: 240 Eacotts Road, Hoddles Creek VIC 3139
   description: Use and construction of a dwelling, construction of farm building and
@@ -871,6 +920,12 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-05'
+- council_reference: YR-2017/724/A
+  address: 610 Hazeldene Road, Gladysdale VIC 3797
+  description: Buildings and works to erect business identification signage
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
 - council_reference: YR-2017/812/A
   address: 18 Belle Vue, Lilydale VIC 3140
   description: Buildings and works to construct two dwellings in addition to the existing
@@ -878,6 +933,12 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2018-12-03'
+- council_reference: YR-2017/813/A
+  address: 15 Leith Road, McMahons Creek VIC 3799
+  description: Use and development of a dwelling and associated tree removal
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-01'
 - council_reference: YR-2017/817/A
   address: 32 Monomeith Street, Mooroolbark VIC 3138
   description: Buildings and works to construct one additional dwelling to the rear
@@ -919,323 +980,6 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-14'
-- council_reference: YR-2018/1158
-  address: 735 Old Warburton Road, Wesburn VIC 3799
-  description: Buildings and works to extend an existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1160
-  address: 112 Ayres Road, Healesville VIC 3777
-  description: Variation of covenant PS429510K to amend the building envelope on Lot
-    5
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1161
-  address: 8 William Street, Kalorama VIC 3766
-  description: Boundary re-alignment
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1162
-  address: 144 Ridge Road, Mount Dandenong VIC 3767
-  description: Buildings and works to extend existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1164
-  address: 6 Mills Avenue, Sassafras VIC 3787
-  description: Buildings and works to construct three retaining walls
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1165
-  address: 10 Hillcrest Grove, Healesville VIC 3777
-  description: Buildings and works to extend the existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1166
-  address: 46 Winyard Drive, Mooroolbark VIC 3138
-  description: Four Lot subdivision
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1167
-  address: 62 Vista Drive, Chirnside Park VIC 3116
-  description: Buildings and works to construct two dwellings and two lot subdivision
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1170
-  address: 49-51 Maroondah Highway, Healesville VIC 3777
-  description: Use and development of a childcare centre and access to road zone category
-    1
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-14'
-- council_reference: YR-2018/1172
-  address: 10 Olive Grove, Tecoma VIC 3160
-  description: Buildings and works to extend an existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-15'
-- council_reference: YR-2018/1173
-  address: 235 Beenak Road, Wandin North VIC 3139
-  description: Additions and Alterations to existing outbuilding and to be converted
-    to a dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
-- council_reference: YR-2018/1174
-  address: 26-28 Marlow Street, Mooroolbark VIC 3138
-  description: Buildings and works to construct seven dwellings and vegetation removal
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-19'
-- council_reference: YR-2018/1176
-  address: 1/25 Esther Crescent, Mooroolbark VIC 3138 (Esther Park Precinct)
-  description: Alterations and extension to Sports Pavillion
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-15'
-- council_reference: YR-2018/1177
-  address: 51A Main Road, Monbulk VIC 3793
-  description: Use of the land for the sale of liquor (packaged liquor licence)
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-15'
-- council_reference: YR-2018/1178
-  address: 21 Rolloway Rise, Chirnside Park VIC 3116
-  description: Buildings and works to construct a second dwelling and carport
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-15'
-- council_reference: YR-2018/1179
-  address: 11 Allison Crescent, Lilydale VIC 3140
-  description: Buildings and works to construct seven dwellings
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
-- council_reference: YR-2018/1180
-  address: 28 George Street, Wandin North VIC 3139
-  description: Vegetation removal
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
-- council_reference: YR-2018/1181
-  address: 73 Croydondale Drive, Mooroolbark VIC 3138
-  description: Buildings and works to construct three dwellings, vegetation removal
-    and three lot subdivision
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
-- council_reference: YR-2018/1182
-  address: 23 George Street, Lilydale VIC 3140
-  description: Buildings and works to construct a second dwelling, partial demolition
-    of the existing dwelling, demolition of outbuildings and buildings and works to
-    extend the existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
-- council_reference: YR-2018/1183
-  address: 903 Chum Creek Road, Chum Creek VIC 3777
-  description: Alteration of access to a Road Zone Category 1, relocation of existing
-    gate and associated Vegetation removal
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
-- council_reference: YR-2018/1184
-  address: 1/3 Claire Court, Montrose VIC 3765
-  description: Two Lot subdivision and removal of restrictive covenant
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
-- council_reference: YR-2018/1185
-  address: 585 Belgrave-Hallam Road, Narre Warren East VIC 3804
-  description: Use and development of a primary and secondary school, Alter access
-    to a Road in a Road Zone Category 1 and Removal of Native Vegetation
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-16'
-- council_reference: YR-2018/1187
-  address: 30 Selby Road, Woori Yallock VIC 3139
-  description: Use of land for industry (building 2)
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-19'
-- council_reference: YR-2018/1188
-  address: 21 Shirley Street, Mooroolbark VIC 3138
-  description: Buildings and works to construct two additional dwellings, car port
-    for existing dwelling and three lot subdivision
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-19'
-- council_reference: YR-2018/1189
-  address: 20 Orchard Street, Kilsyth VIC 3137
-  description: Buildings and works to construct five dwellings
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-20'
-- council_reference: YR-2018/1190
-  address: 17 Fernhill Road, Mount Evelyn VIC 3796
-  description: Buildings and works to construct an outbuilding
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-20'
-- council_reference: YR-2018/1191
-  address: 45 Bethune Road, Gruyere VIC 3770
-  description: Buildings and works for the development of a replacement dwelling and
-    earthworks greater than one metre
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-22'
-- council_reference: YR-2018/1193
-  address: 21 Tarhilla Drive, Launching Place VIC 3139
-  description: Buildings and works to extend existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-20'
-- council_reference: YR-2018/1194
-  address: 14 South Gateway, Coldstream VIC 3770
-  description: Buildings and works to construct a Dependent Persons Unit
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-20'
-- council_reference: YR-2018/1195
-  address: 254 Upper Yarra Dam Road, Reefton VIC 3799 (Residence)
-  description: Buildings and works, and vegetation removal associated with the Upper
-    Yarra Reservoir Project
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-15'
-- council_reference: YR-2018/1196
-  address: 19 Maroondah Highway, Lilydale VIC 3140
-  description: Buildings and works to construct 41 dwellings, removal of an easement,
-    create an easement and create access to a road zone category 1
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-20'
-- council_reference: YR-2018/1197
-  address: 14 Gembrook-Launching Place Road, Launching Place VIC 3139
-  description: Buildings and works to extend an existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-21'
-- council_reference: YR-2018/1198
-  address: 38 Ramset Drive, Chirnside Park VIC 3116
-  description: Seven lot subdivision
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-20'
-- council_reference: YR-2018/1199
-  address: 972 Skyline Road, Yarra Glen VIC 3775
-  description: Use and development of a dwelling, works to construct a retaining wall,
-    water tanks and earthworks greater than 1 metre
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-21'
-- council_reference: YR-2018/1200
-  address: 8 Summit Court, Mooroolbark VIC 3138
-  description: Eight lot subdivision
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-21'
-- council_reference: YR-2018/1201
-  address: 1 Newton Avenue, Mount Evelyn VIC 3796
-  description: Building and works to construct a dwelling and front fence
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-21'
-- council_reference: YR-2018/1202
-  address: 30 Gembrook-Launching Place Road, Launching Place VIC 3139
-  description: Buildings and works to construct an outbuilding
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-21'
-- council_reference: YR-2018/1203
-  address: 55 Country Club Drive, Chirnside Park VIC 3116
-  description: Buildings and works to construct a second dwelling, removal of easement,
-    two lot subdivision and vegetation removal
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-22'
-- council_reference: YR-2018/1204
-  address: 5 Winnetka Drive, Lilydale VIC 3140
-  description: Buildings and works to construct a second dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-22'
-- council_reference: YR-2018/1205
-  address: 136 Belgrave-Gembrook Road, Selby VIC 3159
-  description: Buildings and works to extend existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-22'
-- council_reference: YR-2018/1206
-  address: 580 Warburton Highway, Seville VIC 3139
-  description: Buildings and works to construct an outbuilding
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-23'
-- council_reference: YR-2018/1207
-  address: 22 Coolabah Street, Mooroolbark VIC 3138
-  description: Buildings and works to construct a second dwelling, car port for existing
-    dwelling and vegetation removal
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-23'
-- council_reference: YR-2018/1208
-  address: 6 Locarno Avenue, Kallista VIC 3791
-  description: Buildings and works to extend an existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-23'
-- council_reference: YR-2018/1210
-  address: 35 Birmingham Road, Mount Evelyn VIC 3796
-  description: Buildings and works to construct a second dwelling and two lot subdivision
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-23'
-- council_reference: YR-2018/1212
-  address: 3 Songbird Avenue, Chirnside Park VIC 3116
-  description: Buildings and works to construct a second dwelling, Two lot subdivision
-    and vegetation removal
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-26'
-- council_reference: YR-2018/1213
-  address: 49A Wiseman Road, Silvan VIC 3795
-  description: Buildings and works to extend an existing dwelling
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-26'
-- council_reference: YR-2018/1214
-  address: 14 Ferguson Street, Upwey VIC 3158
-  description: Buildings and works to construct a dwelling, earthworks and vegetation
-    removal
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-27'
-- council_reference: YR-2018/1215
-  address: 5 Bradshaw Drive, Healesville VIC 3777
-  description: Creation of an easement
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-27'
-- council_reference: YR-2018/1216
-  address: 16 Terrigal Crescent, Kilsyth VIC 3137
-  description: Buildings and works to construct four dwellings
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-27'
-- council_reference: YR-2018/1217
-  address: 70 Hubbard Road, Yarra Glen VIC 3775
-  description: Works to construct a dam and associated earthworks
-  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2018-11-27'
 - council_reference: YR-2018/1218
   address: 10 Woorarra Court, Chirnside Park VIC 3116
   description: Buildings and works to construct earthworks, fence and vegetation removal
@@ -1298,7 +1042,7 @@
   date_received: '2018-11-29'
 - council_reference: YR-2018/1227
   address: 7 Juel Crescent, Healesville VIC 3777
-  description: Buildings and works to extend existing dwelling
+  description: Buildings and works to extend an existing dwelling
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2018-11-29'
@@ -1411,7 +1155,7 @@
 - council_reference: YR-2018/1248
   address: 239-241 Olinda-Monbulk Road, Monbulk VIC 3793
   description: Buildings and works to construct an outbuilding and earthworks greater
-    than 600mm
+    than 1m
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2018-12-07'
@@ -1474,7 +1218,8 @@
   date_received: '2018-12-11'
 - council_reference: YR-2018/1259
   address: 61 Vista Drive, Chirnside Park VIC 3116
-  description: Buildings and works to construct a second dwelling and two lot subdivision
+  description: Buildings and works to construct a second dwelling and to subdivide
+    the land into two lots
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2018-12-12'
@@ -1731,8 +1476,9 @@
   date_scraped: '2019-05-15'
   date_received: '2018-12-21'
 - council_reference: YR-2018/1302
-  address: 9-11 Grantully Street, Mount Evelyn VIC 3796
-  description: Buildings and works to construct a dwelling
+  address: 4 Hereford Road, Mount Evelyn VIC 3796
+  description: Buildings and works to construct a dwelling and alter access to a Road
+    Zone Category 1
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2018-12-21'
@@ -1779,6 +1525,13 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-10'
+- council_reference: YR-2018/531/A
+  address: 713 Maroondah Highway, Coldstream VIC 3770
+  description: Use and development of a rural industry, advertising signage, earthworks,
+    vegetation removal and reduction in car parking.
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
 - council_reference: YR-2018/539/A
   address: 64 Bridgewater Road, Seville East VIC 3139
   description: Buildings and works to construct an outbuilding, for earthworks greater
@@ -1845,7 +1598,7 @@
   date_received: '2019-02-13'
 - council_reference: YR-2019/102
   address: 12 View Hill Close, Kilsyth VIC 3137
-  description: Use and development of a dwelling
+  description: Use and development of a dwelling and associated earthworks
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-13'
@@ -1912,7 +1665,8 @@
   date_received: '2019-02-18'
 - council_reference: YR-2019/112
   address: 5 Cherry Road, Macclesfield VIC 3782
-  description: Buildings and works to construct an outbuilding and earthworks (dam)
+  description: Buildings and works to construct an outbuilding, swimming pool with
+    deck and earthworks (dam)
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-18'
@@ -1924,7 +1678,8 @@
   date_received: '2019-02-18'
 - council_reference: YR-2019/114
   address: 2 Leah Avenue, Upwey VIC 3158
-  description: Buildings and works to construct a dependent persons unit
+  description: Buildings and works to construct a dependent persons unit and variation
+    to Covenant PS421418Q
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-18'
@@ -2037,8 +1792,8 @@
   date_received: '2019-02-25'
 - council_reference: YR-2019/132
   address: 70 Roseman Road, Chirnside Park VIC 3116
-  description: Buildings and works to construct a second dwelling, two lot subdivision
-    and vegetation removal
+  description: Buildings and works to construct a second dwelling, subdivide the land
+    into two lots and remove vegetation
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-25'
@@ -2093,8 +1848,8 @@
   date_received: '2019-02-27'
 - council_reference: YR-2019/141
   address: 9 Briarty Road, Gruyere VIC 3770
-  description: Buildings and works to construct a dwelling, use existing dwelling
-    for B & B, earthworks greater than one metre and vegetation removal.
+  description: Use and construction of a dwelling, use existing dwelling for B & B,
+    earthworks greater than one metre and vegetation removal.
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-28'
@@ -2149,7 +1904,7 @@
   date_received: '2019-03-05'
 - council_reference: YR-2019/15
   address: 32 Terrigal Crescent, Kilsyth VIC 3137
-  description: Buildings and works to construct four dwellings
+  description: Buildings and works to construct three dwellings and vegetation removal
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-09'
@@ -2219,7 +1974,7 @@
   date_received: '2019-01-10'
 - council_reference: YR-2019/160
   address: 1575 Burwood Highway, Tecoma VIC 3160
-  description: Display of an internally illuminated business sign
+  description: Display of a floodlit business identification sign
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-06'
@@ -2284,8 +2039,8 @@
   date_received: '2019-01-10'
 - council_reference: YR-2019/170
   address: 13 Farrell Avenue, Yarra Glen VIC 3775
-  description: Buildings and works to construct a second dwelling, carport for existing
-    dwelling, vegetation removal and two lot subdivision
+  description: Buildings and works to construct a second dwelling and carport for
+    existing dwelling, and to subdivide the land into two lots
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-08'
@@ -2350,7 +2105,7 @@
   date_received: '2019-03-13'
 - council_reference: YR-2019/18
   address: 15 Glasgow Road, Kilsyth VIC 3137
-  description: Use and development of a dwelling (retrospective)
+  description: Building and works to extend existing dewlling
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-10'
@@ -2405,7 +2160,7 @@
   date_received: '2019-03-14'
 - council_reference: YR-2019/188
   address: 585 Victoria Road, Gruyere VIC 3770
-  description: Buildings and works to alter and extend an existing dwelling and eartworks
+  description: Buildings and works to alter and extend an existing dwelling and earthworks
     exceeding 1m
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
@@ -2481,8 +2236,9 @@
   date_received: '2018-12-29'
 - council_reference: YR-2019/20
   address: 361 Warburton Highway, Wandin North VIC 3139
-  description: Buildings and works to alter the existing canopy and display of electronic
-    and illuminated business identification and promotional signage
+  description: Use of the land for a service station, building and works to alter
+    the existing canopy and display of electronic and illuminated business identification
+    and promotional signage
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-11'
@@ -2661,7 +2417,7 @@
   date_received: '2019-03-27'
 - council_reference: YR-2019/228
   address: 30 Zoe Louise Drive, Healesville VIC 3777
-  description: Use and development of a dwelling
+  description: Use and development of a dwelling and associated outbuilding
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-27'
@@ -2698,8 +2454,8 @@
   date_received: '2019-03-28'
 - council_reference: YR-2019/233
   address: 26 Gembrook-Launching Place Road, Launching Place VIC 3139
-  description: Buildings and works to construct an outbuilding and earthworks greater
-    than one metre
+  description: Buildings and works to construct an outbuilding and carry out earthworks
+    greater than one metre
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-03-28'
@@ -2811,7 +2567,8 @@
   date_received: '2019-01-14'
 - council_reference: YR-2019/250
   address: 90-102 Lowes Road, Chum Creek VIC 3777
-  description: Development of a telecommunications tower and associated infrastructure
+  description: use and development of a telecommunications facility and associated
+    infrastructure
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-04'
@@ -2879,7 +2636,7 @@
   date_received: '2019-01-15'
 - council_reference: YR-2019/260
   address: 24 Bartley Road, Belgrave South VIC 3160
-  description: Use and development of a dependent persons unit and vegetation removal
+  description: Use and development of a dependent person's unit
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-08'
@@ -2904,7 +2661,7 @@
   date_received: '2019-04-01'
 - council_reference: YR-2019/265
   address: 44-46 Old Kent Road, Mooroolbark VIC 3138
-  description: Vegetation Removal
+  description: Vegetation Removal for construction of a dwelling
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-10'
@@ -3033,7 +2790,7 @@
   date_received: '2019-04-15'
 - council_reference: YR-2019/288
   address: 12 William Street East, Lilydale VIC 3140
-  description: Liquor Licence and reduction car parking
+  description: Use of land for sale and consumption of liquor and reduction car parking
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-04-15'
@@ -3217,8 +2974,7 @@
   date_received: '2019-05-01'
 - council_reference: YR-2019/314
   address: 7 Braeside Avenue, Sherbrooke VIC 3789
-  description: Buildings and works to construct a dwelling (replacement) and vegetation
-    removal
+  description: Buildings and works to construct a dwelling and vegetation removal
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-02'
@@ -3330,7 +3086,7 @@
   date_received: '2019-01-16'
 - council_reference: YR-2019/330
   address: 1 Dunn Avenue, Ferny Creek VIC 3786
-  description: Buildings and works to construct a replacement dwelling
+  description: Buildings and works to construct a dwelling
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-09'
@@ -3342,7 +3098,8 @@
   date_received: '2019-05-14'
 - council_reference: YR-2019/333
   address: 23 Marlow Street, Mooroolbark VIC 3138
-  description: Buildings and works to construct a second dwelling and two lot subdivision
+  description: Buildings and works to construct a second dwelling, carport for existing
+    dwelling and two lot subdivision
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-14'
@@ -3352,6 +3109,36 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-09'
+- council_reference: YR-2019/335
+  address: 6 Railway Place, Belgrave VIC 3160
+  description: Buildings and works to construct an outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-09'
+- council_reference: YR-2019/336
+  address: 6 Railway Place, Belgrave VIC 3160
+  description: Buildings and works to construct an outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-09'
+- council_reference: YR-2019/337
+  address: 96 Switchback Road, Chirnside Park VIC 3116
+  description: Buildings and works to construct two outbuildings
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-09'
+- council_reference: YR-2019/338
+  address: 68-78 Quinn Crescent, Mount Evelyn VIC 3796
+  description: Buildings and works to extend and alter existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
+- council_reference: YR-2019/339
+  address: 407 Clegg Road, Wandin North VIC 3139
+  description: Boundary Re-alignment
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
 - council_reference: YR-2019/34
   address: 240 Maroondah Highway, Healesville VIC 3777
   description: Use of the land to sell and consume liquor in association with a retail
@@ -3359,24 +3146,245 @@
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-18'
+- council_reference: YR-2019/340
+  address: 6 Belinda Close, Kilsyth VIC 3137
+  description: Buildings and works to construct a second dwelling, carport for exsiting
+    dwelling and two lot subdivision
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-10'
+- council_reference: YR-2019/341
+  address: 20 Hansen Road, Kilsyth VIC 3137
+  description: Vary restriction on title
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: YR-2019/342
+  address: 30-32 Baden Powell Drive, Healesville VIC 3777
+  description: Buildings and works to extend an existing dwelling and construct an
+    outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: YR-2019/343
+  address: 51A Main Road, Monbulk VIC 3793
+  description: Two lot subdivision
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: YR-2019/344
+  address: 4 Melba Avenue, Lilydale VIC 3140 (Quarry)
+  description: Buildings and and works to construct 16 dwellings and reduction in
+    car parking
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: YR-2019/345
+  address: 35 Stanley Street, Chirnside Park VIC 3116
+  description: Use and development of a dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: YR-2019/346
+  address: 57 Hunter Road, Wandin North VIC 3139
+  description: Use and development of a dwelling, outbuilding, associated earthworks
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-13'
+- council_reference: YR-2019/347
+  address: 32-34 Felix Grove, Mooroolbark VIC 3138
+  description: Buildings and works to construct two dwellings, car port for existing
+    dwelling and four lot subdivision
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: YR-2019/349
+  address: 160 Healesville-Koo Wee Rup Road, Healesville VIC 3777
+  description: Earthworks greater than one metre (Dam)
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
 - council_reference: YR-2019/35
   address: 72 Hereford Road, Mount Evelyn VIC 3796
   description: Buildings and works to construct a dwelling and front fence
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-18'
+- council_reference: YR-2019/350
+  address: 8 Grand Panorama Court, Launching Place VIC 3139
+  description: Buildings and works to construct a dwelling and earthworks greater
+    than one metre
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-14'
+- council_reference: YR-2019/351
+  address: 4 Barkers Road, Chum Creek VIC 3777
+  description: Buildings and works to extend a dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: YR-2019/352
+  address: 7 Masefield Avenue, Mooroolbark VIC 3138
+  description: Buildings and works to construct a second dwelling and car port for
+    existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-15'
+- council_reference: YR-2019/353
+  address: 2 Outlook Drive, Kalorama VIC 3766
+  description: Re-subdivision of land
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: YR-2019/354
+  address: 5 Opal Court, Lilydale VIC 3140
+  description: Buldings and works to construct a second dwelling and two lot subdivision
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-17'
+- council_reference: YR-2019/355
+  address: 4B One Tree Hill Road, Ferny Creek VIC 3786
+  description: Variation of restriction on title and construction of two bed and breakfast
+    accommodation
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: YR-2019/357
+  address: 46 Ramset Drive, Chirnside Park VIC 3116
+  description: Buildings and works to construct a warehouse and associated car parking
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: YR-2019/359
+  address: 8 Eadie Avenue, Healesville VIC 3777
+  description: Building and works to construct a dependent persons unit
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
 - council_reference: YR-2019/36
   address: 175 Sheffield Road, Kilsyth VIC 3137
   description: Buildings and works to construct an outbuilding
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-20'
+- council_reference: YR-2019/361
+  address: 15 Koombooloomba Court, Lilydale VIC 3140
+  description: Two lot subdivision and carport for existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-20'
+- council_reference: YR-2019/362
+  address: 20 Scenic Crescent, Kalorama VIC 3766
+  description: Buildings and works to extend an existing dwelling and construct an
+    outbuilding
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: YR-2019/363
+  address: 18 Belle Vue, Lilydale VIC 3140
+  description: Three lot subdivision
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: YR-2019/364
+  address: 420A Clegg Road, Wandin North VIC 3139 (Pavilion)
+  description: Buildings and works to construct a sports pavilion and vegetation removal
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-21'
+- council_reference: YR-2019/365
+  address: 4 Herbert Street, Yarra Junction VIC 3797
+  description: Two lot subdivision, building and works to construct a second dwelling
+    and vegetation
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: YR-2019/366
+  address: 54 Kirkpatricks Road, Macclesfield VIC 3782
+  description: buildings and works to extend an existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
+- council_reference: YR-2019/369
+  address: 57 Kallista-Emerald Road, The Patch VIC 3792
+  description: Buildings and works to extend existing dwelling and construct an out
+    building
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-22'
 - council_reference: YR-2019/37
   address: 12 Barkers Road, Chum Creek VIC 3777
   description: Buildings and works to construct an outbuilding
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-21'
+- council_reference: YR-2019/370
+  address: 5 Martyr Road, Warburton VIC 3799
+  description: Boundary re-alignment
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: YR-2019/371
+  address: 483-485 Maroondah Highway, Lilydale VIC 3140
+  description: Use and development of a residential hotel, lavender farm, lavender
+    experience centre (including gin distillery), liquor licence, vegetation removal
+    and creation of access to road zone category 1
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: YR-2019/372
+  address: 9 Rodger Road, Wandin North VIC 3139
+  description: Use and development of a dwelling, building and works to construct
+    a farm shed and earth work greater than one metre.
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: YR-2019/373
+  address: 120 Anderson Street, Lilydale VIC 3140
+  description: Buildings and works to alter and extend existing education facility
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-23'
+- council_reference: YR-2019/374
+  address: 408-414 Sheffield Road, Montrose VIC 3765
+  description: Buildings and works to construct a replacement dwelling and construct
+    two outbuildings
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: YR-2019/375
+  address: 49 Glen Harrow Heights Road, Belgrave VIC 3160
+  description: Buildings and works to extend an existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-24'
+- council_reference: YR-2019/376
+  address: 18 Grantulla Road, Kallista VIC 3791
+  description: Buildings and works to extend an existing dwelling
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-26'
+- council_reference: YR-2019/377
+  address: 16 Wallace Way, Mooroolbark VIC 3138
+  description: Buildings and works to construct a second dwelling, two lot subdivision
+    and vegetation removal
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: YR-2019/378
+  address: 26 Roseman Road, Chirnside Park VIC 3116
+  description: Buildings and works to construct two dwellings, three lot subdivision,
+    the reconfiguration of two lots and vegetation removal
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: YR-2019/379
+  address: 170 Glenview Road, Launching Place VIC 3139
+  description: Buildings and works to construct a replacement dwelling and dependent
+    persons unit
+  info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
 - council_reference: YR-2019/38
   address: 52 Chester Street, Lilydale VIC 3140
   description: Variation to covenant PS430620U on Lot 530 PS430620U to allow use of
@@ -3386,8 +3394,7 @@
   date_received: '2019-01-22'
 - council_reference: YR-2019/39
   address: 8 Maskells Hill Road, Selby VIC 3159
-  description: Buildings and works to alter and extend existing dwelling and construct
-    a swimming pool
+  description: Buildings and works to alter and extend existing dwelling
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-22'
@@ -3418,7 +3425,8 @@
   date_received: '2019-01-21'
 - council_reference: YR-2019/43
   address: 27 Hereford Road, Mount Evelyn VIC 3796
-  description: Buildings and works to extend existing medical centre and car parking
+  description: Buildings and works to extend existing medical centre and alteration
+    of access to a Road Zone, Category 1
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-01-23'
@@ -3670,7 +3678,8 @@
   date_received: '2019-01-04'
 - council_reference: YR-2019/80
   address: 85 Ferndale Road, Upper Ferntree Gully VIC 3156
-  description: Use and development for a dwelling, outbuilding and vegetation removal
+  description: Use and development of a dwelling, construction of an outbuilding and
+    associated earthworks and vegetation removal
   info_url: https://epathway.yarraranges.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-02-07'
